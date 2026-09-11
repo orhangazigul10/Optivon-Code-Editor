@@ -6,6 +6,6 @@
 <h1 align="center">Optivon Code Editor</h1>
 
 <p align="center">
-  <!-- Klasörün içindeki ekran görüntüsü -->
-  <img src="screenshot/screenshot.png" alt="Optivon Code Editor v2.2 Önizleme" width="800">
+  <!-- Ana dizindeki ekran görüntüsü -->
+  <img src="screenshot.png" alt="Optivon Code Editor v2.2 Önizleme" width="800">
 </p>
